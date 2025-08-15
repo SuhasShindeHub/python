@@ -8,5 +8,5 @@ def addition ():
 def multi ():
     print (a * b)
 
-addition ()
+addition ()  #Call function
 multi ()
